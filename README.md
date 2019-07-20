@@ -1,2 +1,2 @@
-# mediagallery.github.io
+# Media Gallery
 Media Gallery
